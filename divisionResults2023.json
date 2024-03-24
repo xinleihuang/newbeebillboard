@@ -1,0 +1,8266 @@
+[
+  {
+    "divisionCode": "AM",
+    "divisionGender": "M",
+    "divisionName": "OPEN MEN A Standings",
+    "divisionOrder": 1,
+    "teamResults": [
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 1,
+        "totalPoints": 119
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 2,
+        "totalPoints": 107
+      },
+      {
+        "teamCode": "DWRT",
+        "teamName": "Dashing Whippets Running Team",
+        "teamPlace": 3,
+        "totalPoints": 97
+      },
+      {
+        "teamCode": "BTR",
+        "teamName": "Brooklyn Track Club",
+        "teamPlace": 4,
+        "totalPoints": 83
+      },
+      {
+        "teamCode": "NYAC",
+        "teamName": "New York Athletic Club",
+        "teamPlace": 5,
+        "totalPoints": 64
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 6,
+        "totalPoints": 57
+      },
+      {
+        "teamCode": "NBR",
+        "teamName": "North Brooklyn Runners",
+        "teamPlace": 7,
+        "totalPoints": 48
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 8,
+        "totalPoints": 36
+      },
+      {
+        "teamCode": "HHRT",
+        "teamName": "Henwood Hounds Racing Team",
+        "teamPlace": 9,
+        "totalPoints": 22
+      },
+      {
+        "teamCode": "NYH",
+        "teamName": "New York Harriers",
+        "teamPlace": 10,
+        "totalPoints": 21
+      },
+      {
+        "teamCode": "UMRNY",
+        "teamName": "United Mexican Runners of New York",
+        "teamPlace": 11,
+        "totalPoints": 17
+      },
+      {
+        "teamCode": "HRR",
+        "teamName": "Hellgate RR",
+        "teamPlace": 12,
+        "totalPoints": 14
+      },
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 13,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "QDR",
+        "teamName": "Queens Distance Runners",
+        "teamPlace": 14,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "URC",
+        "teamName": "Ukrainian Running Club NY",
+        "teamPlace": 14,
+        "totalPoints": 9
+      }
+    ]
+  },
+  {
+    "divisionCode": "AW",
+    "divisionGender": "W",
+    "divisionName": "OPEN WOMEN A Standings",
+    "divisionOrder": 2,
+    "teamResults": [
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 1,
+        "totalPoints": 135
+      },
+      {
+        "teamCode": "BTR",
+        "teamName": "Brooklyn Track Club",
+        "teamPlace": 2,
+        "totalPoints": 110
+      },
+      {
+        "teamCode": "DWRT",
+        "teamName": "Dashing Whippets Running Team",
+        "teamPlace": 3,
+        "totalPoints": 98
+      },
+      {
+        "teamCode": "NBR",
+        "teamName": "North Brooklyn Runners",
+        "teamPlace": 4,
+        "totalPoints": 76
+      },
+      {
+        "teamCode": "HHRT",
+        "teamName": "Henwood Hounds Racing Team",
+        "teamPlace": 5,
+        "totalPoints": 50
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 6,
+        "totalPoints": 44
+      },
+      {
+        "teamCode": "NYH",
+        "teamName": "New York Harriers",
+        "teamPlace": 7,
+        "totalPoints": 41
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 8,
+        "totalPoints": 32
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 9,
+        "totalPoints": 19
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 10,
+        "totalPoints": 17
+      },
+      {
+        "teamCode": "QDR",
+        "teamName": "Queens Distance Runners",
+        "teamPlace": 11,
+        "totalPoints": 15
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 12,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 12,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "HRR",
+        "teamName": "Hellgate RR",
+        "teamPlace": 13,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "DPN",
+        "teamName": "Distance Project NYC",
+        "teamPlace": 14,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "NYAC",
+        "teamName": "New York Athletic Club",
+        "teamPlace": 15,
+        "totalPoints": 5
+      }
+    ]
+  },
+  {
+    "divisionCode": "AX",
+    "divisionGender": "X",
+    "divisionName": "OPEN NON-BINARY A Standings",
+    "divisionOrder": 3,
+    "teamResults": [
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 1,
+        "totalPoints": 135
+      }
+    ]
+  },
+  {
+    "divisionCode": "BM",
+    "divisionGender": "M",
+    "divisionName": "OPEN MEN B Standings",
+    "divisionOrder": 4,
+    "teamResults": [
+      {
+        "teamCode": "LWTC",
+        "teamName": "Lone Wolf Track Club",
+        "teamPlace": 1,
+        "totalPoints": 135
+      },
+      {
+        "teamCode": "NBRC",
+        "teamName": "NewBee Running Club",
+        "teamPlace": 2,
+        "totalPoints": 106
+      },
+      {
+        "teamCode": "SBRC",
+        "teamName": "South Brooklyn Running Club",
+        "teamPlace": 3,
+        "totalPoints": 74
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 4,
+        "totalPoints": 69
+      },
+      {
+        "teamCode": "3RPL",
+        "teamName": "3RunPL",
+        "teamPlace": 5,
+        "totalPoints": 59
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 6,
+        "totalPoints": 58
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 7,
+        "totalPoints": 50
+      },
+      {
+        "teamCode": "PARA",
+        "teamName": "Paragon Sports Run Club",
+        "teamPlace": 8,
+        "totalPoints": 30
+      },
+      {
+        "teamCode": "HOHA",
+        "teamName": "Hoboken Harriers",
+        "teamPlace": 9,
+        "totalPoints": 28
+      },
+      {
+        "teamCode": "TRD",
+        "teamName": "The Reservoir Dogs",
+        "teamPlace": 10,
+        "totalPoints": 26
+      },
+      {
+        "teamCode": "UATH",
+        "teamName": "Urban Athletics",
+        "teamPlace": 11,
+        "totalPoints": 16
+      },
+      {
+        "teamCode": "NP",
+        "teamName": "November Project",
+        "teamPlace": 12,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "LRC",
+        "teamName": "Latin Runners Club",
+        "teamPlace": 13,
+        "totalPoints": 2
+      }
+    ]
+  },
+  {
+    "divisionCode": "BW",
+    "divisionGender": "W",
+    "divisionName": "OPEN WOMEN B Standings",
+    "divisionOrder": 5,
+    "teamResults": [
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 1,
+        "totalPoints": 123
+      },
+      {
+        "teamCode": "BRT",
+        "teamName": "Bergen Runners",
+        "teamPlace": 2,
+        "totalPoints": 118
+      },
+      {
+        "teamCode": "3RPL",
+        "teamName": "3RunPL",
+        "teamPlace": 3,
+        "totalPoints": 68
+      },
+      {
+        "teamCode": "SBRC",
+        "teamName": "South Brooklyn Running Club",
+        "teamPlace": 4,
+        "totalPoints": 64
+      },
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 5,
+        "totalPoints": 58
+      },
+      {
+        "teamCode": "NP",
+        "teamName": "November Project",
+        "teamPlace": 6,
+        "totalPoints": 46
+      },
+      {
+        "teamCode": "POLS",
+        "teamName": "POLSKA Running Team",
+        "teamPlace": 6,
+        "totalPoints": 46
+      },
+      {
+        "teamCode": "URC",
+        "teamName": "Ukrainian Running Club NY",
+        "teamPlace": 7,
+        "totalPoints": 30
+      },
+      {
+        "teamCode": "UATH",
+        "teamName": "Urban Athletics",
+        "teamPlace": 8,
+        "totalPoints": 29
+      },
+      {
+        "teamCode": "MHRC",
+        "teamName": "Mile High Run Club",
+        "teamPlace": 9,
+        "totalPoints": 18
+      },
+      {
+        "teamCode": "PARA",
+        "teamName": "Paragon Sports Run Club",
+        "teamPlace": 10,
+        "totalPoints": 13
+      },
+      {
+        "teamCode": "GCTR",
+        "teamName": "Gotham City Runners",
+        "teamPlace": 11,
+        "totalPoints": 0
+      }
+    ]
+  },
+  {
+    "divisionCode": "CM",
+    "divisionGender": "M",
+    "divisionName": "OPEN MEN C Standings",
+    "divisionOrder": 7,
+    "teamResults": [
+      {
+        "teamCode": "RFA",
+        "teamName": "Running For Ayotzinapa 43",
+        "teamPlace": 1,
+        "totalPoints": 109
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 2,
+        "totalPoints": 86
+      },
+      {
+        "teamCode": "HOTC",
+        "teamName": "Hoboken Track Club",
+        "teamPlace": 3,
+        "totalPoints": 76
+      },
+      {
+        "teamCode": "STR",
+        "teamName": "Striders Track USA",
+        "teamPlace": 4,
+        "totalPoints": 55
+      },
+      {
+        "teamCode": "SIAC",
+        "teamName": "Staten Island AC",
+        "teamPlace": 5,
+        "totalPoints": 54
+      },
+      {
+        "teamCode": "BRT",
+        "teamName": "Bergen Runners",
+        "teamPlace": 6,
+        "totalPoints": 48
+      },
+      {
+        "teamCode": "WRK",
+        "teamName": "TeamWRK",
+        "teamPlace": 7,
+        "totalPoints": 45
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 8,
+        "totalPoints": 31
+      },
+      {
+        "teamCode": "JCR",
+        "teamName": "Jersey City Runners",
+        "teamPlace": 9,
+        "totalPoints": 30
+      },
+      {
+        "teamCode": "R4W",
+        "teamName": "Running 4 Wish Inc",
+        "teamPlace": 10,
+        "totalPoints": 29
+      },
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 11,
+        "totalPoints": 27
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 12,
+        "totalPoints": 26
+      },
+      {
+        "teamCode": "GOOG",
+        "teamName": "Google",
+        "teamPlace": 13,
+        "totalPoints": 25
+      },
+      {
+        "teamCode": "101",
+        "teamName": "Streets 101",
+        "teamPlace": 14,
+        "totalPoints": 15
+      },
+      {
+        "teamCode": "HARL",
+        "teamName": "Harlem Run",
+        "teamPlace": 15,
+        "totalPoints": 14
+      },
+      {
+        "teamCode": "UESRC",
+        "teamName": "Upper East Side Run Club",
+        "teamPlace": 15,
+        "totalPoints": 14
+      },
+      {
+        "teamCode": "GFTC",
+        "teamName": "Goldfinger Track Club",
+        "teamPlace": 16,
+        "totalPoints": 13
+      },
+      {
+        "teamCode": "DYK",
+        "teamName": "Dyckman Run Club",
+        "teamPlace": 17,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "FF",
+        "teamName": "Fleet Feet",
+        "teamPlace": 18,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 18,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "CAHC",
+        "teamName": "Club Atletico Hispano Correcaminos",
+        "teamPlace": 19,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "AFLAM",
+        "teamName": "ANY Flamingos",
+        "teamPlace": 20,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 20,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "LOV",
+        "teamName": "Love to Run Club",
+        "teamPlace": 20,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "POLS",
+        "teamName": "POLSKA Running Team",
+        "teamPlace": 20,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "SFH",
+        "teamName": "S.F.H Smiles From Heaven Athletic Club",
+        "teamPlace": 20,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WIT",
+        "teamName": "Witold's Runners",
+        "teamPlace": 20,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "W-S Runner",
+        "teamName": "Woodside-Sunnyside Runners",
+        "teamPlace": 20,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "CLTRC",
+        "teamName": "Charlotte Running Club",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "CPCR",
+        "teamName": "CPRC",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "DR",
+        "teamName": "Dominican Runners",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "NYMR",
+        "teamName": "Midnight Runners",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "PRNY",
+        "teamName": "Pinoy Runners New York",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "POS",
+        "teamName": "Pirates of Sunrise",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "RRN",
+        "teamName": "Ridge Runners NYC",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "TWNY",
+        "teamName": "Team WEPA NYC",
+        "teamPlace": 21,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "BMRNYC",
+        "teamName": "Black Men Run",
+        "teamPlace": 22,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "GSRC",
+        "teamName": "Godspeed Run Club",
+        "teamPlace": 22,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "RCT",
+        "teamName": "Run for Chinatown",
+        "teamPlace": 22,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 22,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "GSTC",
+        "teamName": "Garden State Track Club",
+        "teamPlace": 23,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NJM",
+        "teamName": "North Jersey Masters",
+        "teamPlace": 23,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NSSRG",
+        "teamName": "Not So Serious Running Group",
+        "teamPlace": 23,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RFYL",
+        "teamName": "Run For Your Life",
+        "teamPlace": 23,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RHR",
+        "teamName": "Run Hustle Run",
+        "teamPlace": 23,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "LEUK",
+        "teamName": "Team In Training",
+        "teamPlace": 23,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "TO",
+        "teamName": "Team Osprey",
+        "teamPlace": 23,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "ZTRN",
+        "teamName": "0Training",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BBLP",
+        "teamName": "Bloomberg LLP",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BRRC",
+        "teamName": "Brooklyn Road Runners Club",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "CHRC",
+        "teamName": "Crown Heights Running Club",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "CSA",
+        "teamName": "CSA Runs As 1",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "DNYRC",
+        "teamName": "Define New York Run Club",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "DREM",
+        "teamName": "Dreamers Running Club",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "FDNY",
+        "teamName": "FDNY Running Club",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "IRC",
+        "teamName": "Italian Running Club",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "KRS",
+        "teamName": "K Runners",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NYCD",
+        "teamName": "NYC Dragons",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "OCRL",
+        "teamName": "OCR Latino",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "PRNJ",
+        "teamName": "Pinoy Runners of New Jersey",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "RRR",
+        "teamName": "Rockland RR",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "RLIC",
+        "teamName": "RUN LIC",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "THSS",
+        "teamName": "Team HSS",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "TTCS",
+        "teamName": "Team TCS",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "UNRR",
+        "teamName": "UNRR (United Nations Road Runners)",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "WSY",
+        "teamName": "West Side Y",
+        "teamPlace": 24,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BAA",
+        "teamName": "Boston Athletic Association",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "BE",
+        "teamName": "Bronx Endurance Runners",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "BN",
+        "teamName": "Bronx Nomads",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "BXS",
+        "teamName": "Bronx Sole",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "DACS",
+        "teamName": "DetermiNation - American Cancer Society",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "EBA",
+        "teamName": "Ecua Brooklyn Athletic",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "ERYO",
+        "teamName": "Ernst & Young LLP",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "GALL",
+        "teamName": "GallowayNYC Running Club",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "MST",
+        "teamName": "Mile Style",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NJMM",
+        "teamName": "New Jersey Maniacs",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NYU",
+        "teamName": "New York University",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NNRC",
+        "teamName": "Nike+ Run Club",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NOR",
+        "teamName": "No Regrets Runners",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NYWR",
+        "teamName": "NY World Runners",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "OMRC",
+        "teamName": "Old Man Run Club",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RHWB",
+        "teamName": "Runners High With Bala",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "SoRC",
+        "teamName": "Social Running Crew",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TRWB",
+        "teamName": "Team Red, White, & Blue",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "JRC",
+        "teamName": "The JURC",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TLRC",
+        "teamName": "The Leftovers Run Club",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TMIRCE",
+        "teamName": "The Most Informal Running Club Ever",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "UWSRC",
+        "teamName": "Upper West Side Run Club",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "UWSR",
+        "teamName": "Upper West Side Runners",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "WFRC",
+        "teamName": "World's Fair Run Crew",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "YRP",
+        "teamName": "Yonkers Running Project",
+        "teamPlace": 25,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "DKN",
+        "teamName": "Befuddled Danes",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "BKRP",
+        "teamName": "BK Run Project",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "CR",
+        "teamName": "Charlie's Angels",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "EMP",
+        "teamName": "Empire Tri Club",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LATIN",
+        "teamName": "Latinos Run",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LIC",
+        "teamName": "LIC Runners",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NYRC",
+        "teamName": "New York Running Club",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RARI",
+        "teamName": "Raritan Valley RR",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "R10",
+        "teamName": "RUN100871",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "SLRC",
+        "teamName": "Skyline Run Club",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "SOMA",
+        "teamName": "SOMA Fox Running Club",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TLSF",
+        "teamName": "Team Lean Strong Fast",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RUNS",
+        "teamName": "The Runs",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TLTC",
+        "teamName": "TriLatino Triathlon Club",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "UFTC",
+        "teamName": "UNFRGVN",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "UNAC",
+        "teamName": "United Nations AC",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "WPF",
+        "teamName": "WilPower Fitness",
+        "teamPlace": 26,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "ATLA",
+        "teamName": "Atlanta TC",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BOMF",
+        "teamName": "Back on My Feet",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BP",
+        "teamName": "Balut Patrol",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BSF",
+        "teamName": "Bed Stuy Flyers",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BJI",
+        "teamName": "Bunji Running",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CPR",
+        "teamName": "Central Park Running Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CRRC",
+        "teamName": "Clifton Road Runners Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CBS",
+        "teamName": "Columbia Business School Running & Triathlon Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CUMC",
+        "teamName": "Columbia University Medical Center",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CZI",
+        "teamName": "Columbia’s Zuckerman Institute",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CLRC",
+        "teamName": "CREATIVE LIVING RUNNERS CLUB, LLC",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CFRT",
+        "teamName": "Cystic Fibrosis Running Team",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "DLRC",
+        "teamName": "Deloitte Running Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "END",
+        "teamName": "Endorphins",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HHH",
+        "teamName": "HHH Hudson Dusters",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ICNYUPRC",
+        "teamName": "Islamic Center at NYU Professionals RC",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JACK",
+        "teamName": "Jackrabbit Sports",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JPM",
+        "teamName": "JP Morgan Chase",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LE",
+        "teamName": "Landshark Endurance",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LOS",
+        "teamName": "Los Runners NCT",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "MAR",
+        "teamName": "MARLBORO RUNNING CLUB",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "MSH",
+        "teamName": "Mount Sinai",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "MTAPD",
+        "teamName": "MTA Police Dept. Running Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYPH",
+        "teamName": "New York Presbyterian Hospital",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYTRC",
+        "teamName": "New York Times Run Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NMR",
+        "teamName": "North Merrick Runners",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYMRC",
+        "teamName": "NYC Muslim Running Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYCR",
+        "teamName": "NYCRUNS- New York City Runs",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RFRT",
+        "teamName": "Racefaster Racing Team",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RKTS",
+        "teamName": "Richmond Rockets",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RA",
+        "teamName": "Road Acers",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RHF",
+        "teamName": "Robin Hood Foundation",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ROKG",
+        "teamName": "Rockaway Gliders",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RIR",
+        "teamName": "Roosevelt Island Runners",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RAP",
+        "teamName": "Run Around Princeton",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SR",
+        "teamName": "Snake Run",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SSRC1",
+        "teamName": "Spartan Sundays Run Club",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SPC",
+        "teamName": "Splits Run Crew",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TLF",
+        "teamName": "The Legion of Fitness",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TLR",
+        "teamName": "TriLife Racing",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "WRKN",
+        "teamName": "WRKNYC",
+        "teamPlace": 27,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FTG",
+        "teamName": "#FasterTogether",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYTR",
+        "teamName": "#nyctechrunners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PAR",
+        "teamName": "#PitchandRun",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ADEW",
+        "teamName": "AdiRun NYC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AODF",
+        "teamName": "Agony o'de Feet",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AAR",
+        "teamName": "Albanian American Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "APS",
+        "teamName": "Alley Pond Striders",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AFRC",
+        "teamName": "Almost Friday Run Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AMAZ",
+        "teamName": "Amazing Feet",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ATM",
+        "teamName": "Asian Trail Mix",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AGTC",
+        "teamName": "Asphalt Green Triathlon Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BeEn",
+        "teamName": "Beacon Endurance",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LAL",
+        "teamName": "Belt Parkway Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BSHR",
+        "teamName": "Black Sheep Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BLKR",
+        "teamName": "BlackRock",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BORC",
+        "teamName": "Boldest Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BOTC",
+        "teamName": "Boulder Track Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BPTC",
+        "teamName": "Bridle Path TC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BKTC",
+        "teamName": "Brooklyn Triathlon Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BB",
+        "teamName": "Brown Bag",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ALZH",
+        "teamName": "CaringKind",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CJTC",
+        "teamName": "Central Jersey RR",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCNY",
+        "teamName": "City College of New York",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CPKF",
+        "teamName": "City Parks Foundation",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CLRR",
+        "teamName": "Columbia RR",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCR",
+        "teamName": "Crazy Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CF",
+        "teamName": "Cultura Fit",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "EQNX",
+        "teamName": "Equinox",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FR",
+        "teamName": "Family Runs Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FAT1",
+        "teamName": "Fil Am Tri",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FFWH",
+        "teamName": "Fleet Feet West Hartford",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FRC",
+        "teamName": "Fox Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FYK",
+        "teamName": "FriYay 5K",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FTER",
+        "teamName": "Full Throttle Endurance Racing",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FutureRC",
+        "teamName": "Future Run Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSC",
+        "teamName": "Garden State Cheetahs",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSNY",
+        "teamName": "German Silva Coaching NY Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GFT",
+        "teamName": "Glue Factory",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GS",
+        "teamName": "Goldman Sachs",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GO",
+        "teamName": "Gotham",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GAP",
+        "teamName": "Grand Army Pacers",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GRNC",
+        "teamName": "Green City Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GT4",
+        "teamName": "GTRC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GRRC",
+        "teamName": "Gujarati RRC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HHRG",
+        "teamName": "Hamilton Heights Running Group",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HSNY",
+        "teamName": "HeartShare Human Services of New York",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HHTR",
+        "teamName": "Henry Hudson Trail Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JSRC",
+        "teamName": "Jersey Shore RC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JBRC",
+        "teamName": "JetBlue Run Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JPMI",
+        "teamName": "JP Mission",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JRUN",
+        "teamName": "JRunners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LSRC",
+        "teamName": "L Street Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LARR",
+        "teamName": "Los Angeles Road Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LEMO",
+        "teamName": "lululemon",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MAAL",
+        "teamName": "Marist Alumni Racing Team",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JMFA",
+        "teamName": "McKirdy Trained",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ML",
+        "teamName": "Merrill Lynch",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MERR",
+        "teamName": "Merrimack Valley Striders",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MHUD",
+        "teamName": "Mid Hudson RRC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MHRC",
+        "teamName": "Mile High Run Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WRH",
+        "teamName": "Monarchs",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MONZ",
+        "teamName": "Monza Marathon Team a.s.d.",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NKU",
+        "teamName": "Nankai Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RMRC",
+        "teamName": "Never Quit The Meaningful Project",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NHP",
+        "teamName": "New Hyde Park - Mineola Runners Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NJRR",
+        "teamName": "New Jersey Road Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NRC",
+        "teamName": "Northport Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NHTC",
+        "teamName": "Nuchal Heads TC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYCFR",
+        "teamName": "NYC Fun Run",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "OPR",
+        "teamName": "Ocean Parkway Runners - OPR",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ONRN",
+        "teamName": "On",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ORA",
+        "teamName": "Orange Runners Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PARC",
+        "teamName": "Pacers Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PRU",
+        "teamName": "Pinoy Runners USA",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PNP",
+        "teamName": "Pints & Pavements",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PPRC",
+        "teamName": "Porous Pugs Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PBDS",
+        "teamName": "Powered By Dim Sum",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ReR",
+        "teamName": "Rerouted Running",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "R2R",
+        "teamName": "Rise2Run",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PRHR",
+        "teamName": "Ronald McDonald House of Providence Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RNF",
+        "teamName": "Run N Fun",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RNYC",
+        "teamName": "Run NYC - Nike",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "R4F",
+        "teamName": "Run4Fun",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RWTC",
+        "teamName": "RunWell TC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RRRC",
+        "teamName": "Runwithalli Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SFRR",
+        "teamName": "San Francisco Road Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SRCO",
+        "teamName": "Sayville Running Company",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SMUL",
+        "teamName": "Sephardic Multisport AC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SERP",
+        "teamName": "Serpentine Running Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "S4A",
+        "teamName": "Shoe4Africa",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SAC",
+        "teamName": "Shore Athletic Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SOME",
+        "teamName": "Somerville Road Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "STRV",
+        "teamName": "Strava TC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SRS",
+        "teamName": "Super Runners Shop",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SWRR",
+        "teamName": "SWRR",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TA",
+        "teamName": "Team Aisling",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TMCF",
+        "teamName": "Team Boomer - Fighting Cystic Fibrosis",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TCON",
+        "teamName": "Team Continuum",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "THR",
+        "teamName": "Team Human Racing",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LULU",
+        "teamName": "Team Lemon",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "F418",
+        "teamName": "Team Philippians",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "IRC2",
+        "teamName": "Team Rescue",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TOR",
+        "teamName": "Type One Run",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "UFT",
+        "teamName": "UFT Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "URFT",
+        "teamName": "Urban Feet",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ARMY",
+        "teamName": "US Army",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WS",
+        "teamName": "Warren Street Social & Athletic Club",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WRU",
+        "teamName": "We Run Uptown",
+        "teamPlace": 28,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WR",
+        "teamName": "World Runners",
+        "teamPlace": 28,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "CW",
+    "divisionGender": "W",
+    "divisionName": "OPEN WOMEN C Standings",
+    "divisionOrder": 8,
+    "teamResults": [
+      {
+        "teamCode": "101",
+        "teamName": "Streets 101",
+        "teamPlace": 1,
+        "totalPoints": 115
+      },
+      {
+        "teamCode": "LWTC",
+        "teamName": "Lone Wolf Track Club",
+        "teamPlace": 2,
+        "totalPoints": 78
+      },
+      {
+        "teamCode": "HOTC",
+        "teamName": "Hoboken Track Club",
+        "teamPlace": 3,
+        "totalPoints": 65
+      },
+      {
+        "teamCode": "NBRC",
+        "teamName": "NewBee Running Club",
+        "teamPlace": 4,
+        "totalPoints": 60
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 5,
+        "totalPoints": 45
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 6,
+        "totalPoints": 44
+      },
+      {
+        "teamCode": "RFA",
+        "teamName": "Running For Ayotzinapa 43",
+        "teamPlace": 7,
+        "totalPoints": 37
+      },
+      {
+        "teamCode": "TO",
+        "teamName": "Team Osprey",
+        "teamPlace": 8,
+        "totalPoints": 31
+      },
+      {
+        "teamCode": "UESRC",
+        "teamName": "Upper East Side Run Club",
+        "teamPlace": 8,
+        "totalPoints": 31
+      },
+      {
+        "teamCode": "WRK",
+        "teamName": "TeamWRK",
+        "teamPlace": 9,
+        "totalPoints": 28
+      },
+      {
+        "teamCode": "LOV",
+        "teamName": "Love to Run Club",
+        "teamPlace": 10,
+        "totalPoints": 24
+      },
+      {
+        "teamCode": "TRD",
+        "teamName": "The Reservoir Dogs",
+        "teamPlace": 11,
+        "totalPoints": 22
+      },
+      {
+        "teamCode": "CPCR",
+        "teamName": "CPRC",
+        "teamPlace": 12,
+        "totalPoints": 21
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 13,
+        "totalPoints": 20
+      },
+      {
+        "teamCode": "DYK",
+        "teamName": "Dyckman Run Club",
+        "teamPlace": 14,
+        "totalPoints": 18
+      },
+      {
+        "teamCode": "HARL",
+        "teamName": "Harlem Run",
+        "teamPlace": 14,
+        "totalPoints": 18
+      },
+      {
+        "teamCode": "STR",
+        "teamName": "Striders Track USA",
+        "teamPlace": 14,
+        "totalPoints": 18
+      },
+      {
+        "teamCode": "ATLA",
+        "teamName": "Atlanta TC",
+        "teamPlace": 15,
+        "totalPoints": 16
+      },
+      {
+        "teamCode": "JCR",
+        "teamName": "Jersey City Runners",
+        "teamPlace": 16,
+        "totalPoints": 13
+      },
+      {
+        "teamCode": "WIT",
+        "teamName": "Witold's Runners",
+        "teamPlace": 16,
+        "totalPoints": 13
+      },
+      {
+        "teamCode": "FTG",
+        "teamName": "#FasterTogether",
+        "teamPlace": 17,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "CAHC",
+        "teamName": "Club Atletico Hispano Correcaminos",
+        "teamPlace": 17,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "NYMR",
+        "teamName": "Midnight Runners",
+        "teamPlace": 18,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "CHRC",
+        "teamName": "Crown Heights Running Club",
+        "teamPlace": 19,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "MERM",
+        "teamName": "Mercury Masters",
+        "teamPlace": 19,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "BGR",
+        "teamName": "Black Girls Run",
+        "teamPlace": 20,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "ROSES",
+        "teamName": "Black Roses NYC",
+        "teamPlace": 20,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 20,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 20,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "GALL",
+        "teamName": "GallowayNYC Running Club",
+        "teamPlace": 20,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "PRNY",
+        "teamName": "Pinoy Runners New York",
+        "teamPlace": 20,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "TWNY",
+        "teamName": "Team WEPA NYC",
+        "teamPlace": 20,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "BLG",
+        "teamName": "Badass Lady Gang",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "DR",
+        "teamName": "Dominican Runners",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "FF",
+        "teamName": "Fleet Feet",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "NSSRG",
+        "teamName": "Not So Serious Running Group",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "RRN",
+        "teamName": "Ridge Runners NYC",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "RCT",
+        "teamName": "Run for Chinatown",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "TLSF",
+        "teamName": "Team Lean Strong Fast",
+        "teamPlace": 21,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "BE",
+        "teamName": "Bronx Endurance Runners",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "END",
+        "teamName": "Endorphins",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "OMRC",
+        "teamName": "Old Man Run Club",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RRR",
+        "teamName": "Rockland RR",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RFYL",
+        "teamName": "Run For Your Life",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RLIC",
+        "teamName": "RUN LIC",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "R10",
+        "teamName": "RUN100871",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "LEUK",
+        "teamName": "Team In Training",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "YRP",
+        "teamName": "Yonkers Running Project",
+        "teamPlace": 22,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "ZTRN",
+        "teamName": "0Training",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "CSA",
+        "teamName": "CSA Runs As 1",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "EMP",
+        "teamName": "Empire Tri Club",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "GFTC",
+        "teamName": "Goldfinger Track Club",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NMR",
+        "teamName": "North Merrick Runners",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NYWR",
+        "teamName": "NY World Runners",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "PRNJ",
+        "teamName": "Pinoy Runners of New Jersey",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "PNP",
+        "teamName": "Pints & Pavements",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "ReR",
+        "teamName": "Rerouted Running",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "R4W",
+        "teamName": "Running 4 Wish Inc",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "TA",
+        "teamName": "Team Aisling",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "WPF",
+        "teamName": "WilPower Fitness",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "W-S Runner",
+        "teamName": "Woodside-Sunnyside Runners",
+        "teamPlace": 23,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BN",
+        "teamName": "Bronx Nomads",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "BXS",
+        "teamName": "Bronx Sole",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "CLRC",
+        "teamName": "CREATIVE LIVING RUNNERS CLUB, LLC",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "DNYRC",
+        "teamName": "Define New York Run Club",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "DACS",
+        "teamName": "DetermiNation - American Cancer Society",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "GOOG",
+        "teamName": "Google",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "LE",
+        "teamName": "Landshark Endurance",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "LAC",
+        "teamName": "Latinas Run",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NHP",
+        "teamName": "New Hyde Park - Mineola Runners Club",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NYCD",
+        "teamName": "NYC Dragons",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "PRU",
+        "teamName": "Pinoy Runners USA",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "SFH",
+        "teamName": "S.F.H Smiles From Heaven Athletic Club",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "SSRC1",
+        "teamName": "Spartan Sundays Run Club",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "SPC",
+        "teamName": "Splits Run Crew",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "SIAC",
+        "teamName": "Staten Island AC",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "THSS",
+        "teamName": "Team HSS",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TTCS",
+        "teamName": "Team TCS",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "WFRC",
+        "teamName": "World's Fair Run Crew",
+        "teamPlace": 24,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "AFLAM",
+        "teamName": "ANY Flamingos",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "BSF",
+        "teamName": "Bed Stuy Flyers",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "JWS",
+        "teamName": "Jersey Women Strong",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "KRS",
+        "teamName": "K Runners",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LTM",
+        "teamName": "Latinas in Motion",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LIC",
+        "teamName": "LIC Runners",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "MST",
+        "teamName": "Mile Style",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NYTRC",
+        "teamName": "New York Times Run Club",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NNRC",
+        "teamName": "Nike+ Run Club",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NJM",
+        "teamName": "North Jersey Masters",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NRC",
+        "teamName": "Northport Running Club",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RARI",
+        "teamName": "Raritan Valley RR",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RKTS",
+        "teamName": "Richmond Rockets",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TMIRCE",
+        "teamName": "The Most Informal Running Club Ever",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "UWSRC",
+        "teamName": "Upper West Side Run Club",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "WMM",
+        "teamName": "Women Make Moves",
+        "teamPlace": 25,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "ADEW",
+        "teamName": "AdiRun NYC",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "AODF",
+        "teamName": "Agony o'de Feet",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ATM",
+        "teamName": "Asian Trail Mix",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BOMF",
+        "teamName": "Back on My Feet",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BKRP",
+        "teamName": "BK Run Project",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CRRC",
+        "teamName": "Clifton Road Runners Club",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FDNY",
+        "teamName": "FDNY Running Club",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HHRG",
+        "teamName": "Hamilton Heights Running Group",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HHTR",
+        "teamName": "Henry Hudson Trail Runners",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HHH",
+        "teamName": "HHH Hudson Dusters",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "IRC",
+        "teamName": "Italian Running Club",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JSRC",
+        "teamName": "Jersey Shore RC",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JPM",
+        "teamName": "JP Morgan Chase",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LW",
+        "teamName": "Las Weponas",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYPH",
+        "teamName": "New York Presbyterian Hospital",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NMLR",
+        "teamName": "No More Lonely Runs",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "POS",
+        "teamName": "Pirates of Sunrise",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "PSRC",
+        "teamName": "Project Sweat Run Club",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RHF",
+        "teamName": "Robin Hood Foundation",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ROKG",
+        "teamName": "Rockaway Gliders",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RIR",
+        "teamName": "Roosevelt Island Runners",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RAP",
+        "teamName": "Run Around Princeton",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "S4A",
+        "teamName": "Shoe4Africa",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SoRC",
+        "teamName": "Social Running Crew",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SOMA",
+        "teamName": "SOMA Fox Running Club",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SLR",
+        "teamName": "StartLine Runners",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TMCF",
+        "teamName": "Team Boomer - Fighting Cystic Fibrosis",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TRWB",
+        "teamName": "Team Red, White, & Blue",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JRC",
+        "teamName": "The JURC",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "UWSR",
+        "teamName": "Upper West Side Runners",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "VSRC",
+        "teamName": "Valley Stream RC",
+        "teamPlace": 26,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYTR",
+        "teamName": "#nyctechrunners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AK",
+        "teamName": "Achilles Kids",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "APS",
+        "teamName": "Alley Pond Striders",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AMAZ",
+        "teamName": "Amazing Feet",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ALAR",
+        "teamName": "American Lung Association",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AGTC",
+        "teamName": "Asphalt Green Triathlon Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AR",
+        "teamName": "Astoria Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BARK",
+        "teamName": "Bad Ass Run Krew",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DKN",
+        "teamName": "Befuddled Danes",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BAR",
+        "teamName": "Big Apple Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BRSC",
+        "teamName": "Black Runners Connection",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BBLP",
+        "teamName": "Bloomberg LLP",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BAA",
+        "teamName": "Boston Athletic Association",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BQRC",
+        "teamName": "Brooklyn Queer Run Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BKTC",
+        "teamName": "Brooklyn Triathlon Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ALZH",
+        "teamName": "CaringKind",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CMS",
+        "teamName": "Central Mass Striders",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CPR",
+        "teamName": "Central Park Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCMS",
+        "teamName": "City Coach Multisport",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCNY",
+        "teamName": "City College of New York",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CPKF",
+        "teamName": "City Parks Foundation",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "COLU",
+        "teamName": "Columbia University RR",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CF",
+        "teamName": "Cultura Fit",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CFRT",
+        "teamName": "Cystic Fibrosis Running Team",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DLRC",
+        "teamName": "Deloitte Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DD",
+        "teamName": "Ditmars Dashers",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "EF",
+        "teamName": "elitefeats Athletic Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "EQNX",
+        "teamName": "Equinox",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSNY",
+        "teamName": "German Silva Coaching NY Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GlRC",
+        "teamName": "GlobalRunningCrew",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GS",
+        "teamName": "Goldman Sachs",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GLRR",
+        "teamName": "Greater Lowell Road Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GT4",
+        "teamName": "GTRC",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HOHA",
+        "teamName": "Hoboken Harriers",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "INI",
+        "teamName": "Impact Network International",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ING",
+        "teamName": "ING",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LSRC",
+        "teamName": "L Street Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LLEG",
+        "teamName": "LA Leggers",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LATIN",
+        "teamName": "Latinos Run",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LPR",
+        "teamName": "Life of the Party Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LARR",
+        "teamName": "Los Angeles Road Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LOS",
+        "teamName": "Los Runners NCT",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MAR",
+        "teamName": "MARLBORO RUNNING CLUB",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JMFA",
+        "teamName": "McKirdy Trained",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MERR",
+        "teamName": "Merrimack Valley Striders",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MHUD",
+        "teamName": "Mid Hudson RRC",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MSH",
+        "teamName": "Mount Sinai",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NKU",
+        "teamName": "Nankai Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NJMM",
+        "teamName": "New Jersey Maniacs",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NJRR",
+        "teamName": "New Jersey Road Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYJL",
+        "teamName": "New York Junior League",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYRC",
+        "teamName": "New York Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYU",
+        "teamName": "New York University",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NRUN",
+        "teamName": "Nike Running Group",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NOR",
+        "teamName": "No Regrets Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYCFR",
+        "teamName": "NYC Fun Run",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYCR",
+        "teamName": "NYCRUNS- New York City Runs",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "OPR",
+        "teamName": "Ocean Parkway Runners - OPR",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "OCRL",
+        "teamName": "OCR Latino",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ORA",
+        "teamName": "Orange Runners Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "OO",
+        "teamName": "Orithyia Omada",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PARC",
+        "teamName": "Pacers Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "Pali",
+        "teamName": "Palisades Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PROO",
+        "teamName": "Pro Oxygen Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TR&R",
+        "teamName": "Rage & Release",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RTWN",
+        "teamName": "Rivertown Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHR",
+        "teamName": "Run Hustle Run",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RNYC",
+        "teamName": "Run NYC - Nike",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RPB",
+        "teamName": "Run PB",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "R4F",
+        "teamName": "Run4Fun",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RES",
+        "teamName": "Runners Edge Striders",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHWB",
+        "teamName": "Runners High With Bala",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SFRR",
+        "teamName": "San Francisco Road Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SRCO",
+        "teamName": "Sayville Running Company",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SRCRW",
+        "teamName": "She Runs Crew",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SLRC",
+        "teamName": "Skyline Run Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SSR",
+        "teamName": "Social Striders Running Club",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SOME",
+        "teamName": "Somerville Road Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "STRV",
+        "teamName": "Strava TC",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TCON",
+        "teamName": "Team Continuum",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "THR",
+        "teamName": "Team Human Racing",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LULU",
+        "teamName": "Team Lemon",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HHRC",
+        "teamName": "The Heartbreakers",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HR",
+        "teamName": "The Hudson Runners",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TLR",
+        "teamName": "TriLife Racing",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TOR",
+        "teamName": "Type One Run",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "UFTC",
+        "teamName": "UNFRGVN",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ARMY",
+        "teamName": "US Army",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WRU",
+        "teamName": "We Run Uptown",
+        "teamPlace": 27,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WSY",
+        "teamName": "West Side Y",
+        "teamPlace": 27,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "CX",
+    "divisionGender": "X",
+    "divisionName": "OPEN NON-BINARY C Standings",
+    "divisionOrder": 9,
+    "teamResults": [
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 1,
+        "totalPoints": 45
+      }
+    ]
+  },
+  {
+    "divisionCode": "40M",
+    "divisionGender": "M",
+    "divisionName": "40+ Men Standings",
+    "divisionOrder": 10,
+    "teamResults": [
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 1,
+        "totalPoints": 113
+      },
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 2,
+        "totalPoints": 108
+      },
+      {
+        "teamCode": "DWRT",
+        "teamName": "Dashing Whippets Running Team",
+        "teamPlace": 3,
+        "totalPoints": 73
+      },
+      {
+        "teamCode": "HHRT",
+        "teamName": "Henwood Hounds Racing Team",
+        "teamPlace": 4,
+        "totalPoints": 67
+      },
+      {
+        "teamCode": "NBR",
+        "teamName": "North Brooklyn Runners",
+        "teamPlace": 5,
+        "totalPoints": 52
+      },
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 6,
+        "totalPoints": 50
+      },
+      {
+        "teamCode": "NYH",
+        "teamName": "New York Harriers",
+        "teamPlace": 7,
+        "totalPoints": 43
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 8,
+        "totalPoints": 42
+      },
+      {
+        "teamCode": "LWTC",
+        "teamName": "Lone Wolf Track Club",
+        "teamPlace": 9,
+        "totalPoints": 39
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 10,
+        "totalPoints": 38
+      },
+      {
+        "teamCode": "RFA",
+        "teamName": "Running For Ayotzinapa 43",
+        "teamPlace": 11,
+        "totalPoints": 31
+      },
+      {
+        "teamCode": "UMRNY",
+        "teamName": "United Mexican Runners of New York",
+        "teamPlace": 12,
+        "totalPoints": 27
+      },
+      {
+        "teamCode": "NYAC",
+        "teamName": "New York Athletic Club",
+        "teamPlace": 13,
+        "totalPoints": 25
+      },
+      {
+        "teamCode": "BRT",
+        "teamName": "Bergen Runners",
+        "teamPlace": 14,
+        "totalPoints": 14
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 15,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "NBRC",
+        "teamName": "NewBee Running Club",
+        "teamPlace": 15,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "SIAC",
+        "teamName": "Staten Island AC",
+        "teamPlace": 16,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 16,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "3RPL",
+        "teamName": "3RunPL",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "CAHC",
+        "teamName": "Club Atletico Hispano Correcaminos",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "JCR",
+        "teamName": "Jersey City Runners",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "LOV",
+        "teamName": "Love to Run Club",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "POLS",
+        "teamName": "POLSKA Running Team",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "QDR",
+        "teamName": "Queens Distance Runners",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "STR",
+        "teamName": "Striders Track USA",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WIT",
+        "teamName": "Witold's Runners",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "W-S Runner",
+        "teamName": "Woodside-Sunnyside Runners",
+        "teamPlace": 17,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "AFLAM",
+        "teamName": "ANY Flamingos",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "BRRC",
+        "teamName": "Brooklyn Road Runners Club",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "DR",
+        "teamName": "Dominican Runners",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "GOOG",
+        "teamName": "Google",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "HARL",
+        "teamName": "Harlem Run",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "R4W",
+        "teamName": "Running 4 Wish Inc",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "SBRC",
+        "teamName": "South Brooklyn Running Club",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "WRK",
+        "teamName": "TeamWRK",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "TRD",
+        "teamName": "The Reservoir Dogs",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "URC",
+        "teamName": "Ukrainian Running Club NY",
+        "teamPlace": 18,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "BMRNYC",
+        "teamName": "Black Men Run",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "BTR",
+        "teamName": "Brooklyn Track Club",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "CSA",
+        "teamName": "CSA Runs As 1",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "DNYRC",
+        "teamName": "Define New York Run Club",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "DYK",
+        "teamName": "Dyckman Run Club",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "HRR",
+        "teamName": "Hellgate RR",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "NJMM",
+        "teamName": "New Jersey Maniacs",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "NJM",
+        "teamName": "North Jersey Masters",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "PRNY",
+        "teamName": "Pinoy Runners New York",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "PRNJ",
+        "teamName": "Pinoy Runners of New Jersey",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "SFH",
+        "teamName": "S.F.H Smiles From Heaven Athletic Club",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "TO",
+        "teamName": "Team Osprey",
+        "teamPlace": 19,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "ZTRN",
+        "teamName": "0Training",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "EBA",
+        "teamName": "Ecua Brooklyn Athletic",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "EMP",
+        "teamName": "Empire Tri Club",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "GALL",
+        "teamName": "GallowayNYC Running Club",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "HOHA",
+        "teamName": "Hoboken Harriers",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "IRC",
+        "teamName": "Italian Running Club",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NYRC",
+        "teamName": "New York Running Club",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NP",
+        "teamName": "November Project",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NYCD",
+        "teamName": "NYC Dragons",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "OCRL",
+        "teamName": "OCR Latino",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "PARA",
+        "teamName": "Paragon Sports Run Club",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RRN",
+        "teamName": "Ridge Runners NYC",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RRR",
+        "teamName": "Rockland RR",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RFYL",
+        "teamName": "Run For Your Life",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RHR",
+        "teamName": "Run Hustle Run",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "101",
+        "teamName": "Streets 101",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "TWNY",
+        "teamName": "Team WEPA NYC",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "JRC",
+        "teamName": "The JURC",
+        "teamPlace": 20,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "BKRP",
+        "teamName": "BK Run Project",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BBLP",
+        "teamName": "Bloomberg LLP",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "CLRC",
+        "teamName": "CREATIVE LIVING RUNNERS CLUB, LLC",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "KRS",
+        "teamName": "K Runners",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "RCT",
+        "teamName": "Run for Chinatown",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "LEUK",
+        "teamName": "Team In Training",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "TTCS",
+        "teamName": "Team TCS",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "UNAC",
+        "teamName": "United Nations AC",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "UNRR",
+        "teamName": "UNRR (United Nations Road Runners)",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "WSY",
+        "teamName": "West Side Y",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "WPF",
+        "teamName": "WilPower Fitness",
+        "teamPlace": 21,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BXS",
+        "teamName": "Bronx Sole",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "CR",
+        "teamName": "Charlie's Angels",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "CHRC",
+        "teamName": "Crown Heights Running Club",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "DACS",
+        "teamName": "DetermiNation - American Cancer Society",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "FAT1",
+        "teamName": "Fil Am Tri",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NMR",
+        "teamName": "North Merrick Runners",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NSSRG",
+        "teamName": "Not So Serious Running Group",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NYCR",
+        "teamName": "NYCRUNS- New York City Runs",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RA",
+        "teamName": "Road Acers",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RLIC",
+        "teamName": "RUN LIC",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "R10",
+        "teamName": "RUN100871",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RHWB",
+        "teamName": "Runners High With Bala",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "THSS",
+        "teamName": "Team HSS",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TLSF",
+        "teamName": "Team Lean Strong Fast",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TRWB",
+        "teamName": "Team Red, White, & Blue",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RUNS",
+        "teamName": "The Runs",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TLTC",
+        "teamName": "TriLatino Triathlon Club",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "UATH",
+        "teamName": "Urban Athletics",
+        "teamPlace": 22,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "AODF",
+        "teamName": "Agony o'de Feet",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "APS",
+        "teamName": "Alley Pond Striders",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "BN",
+        "teamName": "Bronx Nomads",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "CRRC",
+        "teamName": "Clifton Road Runners Club",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "FDNY",
+        "teamName": "FDNY Running Club",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "HHH",
+        "teamName": "HHH Hudson Dusters",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LATIN",
+        "teamName": "Latinos Run",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NNRC",
+        "teamName": "Nike+ Run Club",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "OMRC",
+        "teamName": "Old Man Run Club",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "POS",
+        "teamName": "Pirates of Sunrise",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RARI",
+        "teamName": "Raritan Valley RR",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TLRC",
+        "teamName": "The Leftovers Run Club",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "WRKN",
+        "teamName": "WRKNYC",
+        "teamPlace": 23,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "AGTC",
+        "teamName": "Asphalt Green Triathlon Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ATLA",
+        "teamName": "Atlanta TC",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BOMF",
+        "teamName": "Back on My Feet",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "DKN",
+        "teamName": "Befuddled Danes",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BPTC",
+        "teamName": "Bridle Path TC",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BKTC",
+        "teamName": "Brooklyn Triathlon Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FF",
+        "teamName": "Fleet Feet",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "GSTC",
+        "teamName": "Garden State Track Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "GT4",
+        "teamName": "GTRC",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JACK",
+        "teamName": "Jackrabbit Sports",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JSRC",
+        "teamName": "Jersey Shore RC",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JPM",
+        "teamName": "JP Morgan Chase",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LE",
+        "teamName": "Landshark Endurance",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LIC",
+        "teamName": "LIC Runners",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LOS",
+        "teamName": "Los Runners NCT",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "MAR",
+        "teamName": "MARLBORO RUNNING CLUB",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "MST",
+        "teamName": "Mile Style",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NHP",
+        "teamName": "New Hyde Park - Mineola Runners Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NJRR",
+        "teamName": "New Jersey Road Runners",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYU",
+        "teamName": "New York University",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NOR",
+        "teamName": "No Regrets Runners",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RFRT",
+        "teamName": "Racefaster Racing Team",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RKTS",
+        "teamName": "Richmond Rockets",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "R2R",
+        "teamName": "Rise2Run",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ROKG",
+        "teamName": "Rockaway Gliders",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RAP",
+        "teamName": "Run Around Princeton",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RNYC",
+        "teamName": "Run NYC - Nike",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SAC",
+        "teamName": "Shore Athletic Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SLRC",
+        "teamName": "Skyline Run Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SSRC1",
+        "teamName": "Spartan Sundays Run Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SPC",
+        "teamName": "Splits Run Crew",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "F418",
+        "teamName": "Team Philippians",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TLR",
+        "teamName": "TriLife Racing",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "UFT",
+        "teamName": "UFT Runners",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "UFTC",
+        "teamName": "UNFRGVN",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "UESRC",
+        "teamName": "Upper East Side Run Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "VSRC",
+        "teamName": "Valley Stream RC",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "WS",
+        "teamName": "Warren Street Social & Athletic Club",
+        "teamPlace": 24,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FTG",
+        "teamName": "#FasterTogether",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYTR",
+        "teamName": "#nyctechrunners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "10TO",
+        "teamName": "10 To The End",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ADEW",
+        "teamName": "AdiRun NYC",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AMAZ",
+        "teamName": "Amazing Feet",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ATM",
+        "teamName": "Asian Trail Mix",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BP",
+        "teamName": "Balut Patrol",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BSHR",
+        "teamName": "Black Sheep Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BAA",
+        "teamName": "Boston Athletic Association",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BE",
+        "teamName": "Bronx Endurance Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BROG",
+        "teamName": "Brooklyn Rogues",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ALZH",
+        "teamName": "CaringKind",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CJTC",
+        "teamName": "Central Jersey RR",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CMS",
+        "teamName": "Central Mass Striders",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CPR",
+        "teamName": "Central Park Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCNY",
+        "teamName": "City College of New York",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CPKF",
+        "teamName": "City Parks Foundation",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCR",
+        "teamName": "Crazy Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CFRT",
+        "teamName": "Cystic Fibrosis Running Team",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DLRC",
+        "teamName": "Deloitte Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FRC",
+        "teamName": "Fox Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSC",
+        "teamName": "Garden State Cheetahs",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSNY",
+        "teamName": "German Silva Coaching NY Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GFTC",
+        "teamName": "Goldfinger Track Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GRNC",
+        "teamName": "Green City Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GRRC",
+        "teamName": "Gujarati RRC",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HHTR",
+        "teamName": "Henry Hudson Trail Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ICNYUPRC",
+        "teamName": "Islamic Center at NYU Professionals RC",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JRUN",
+        "teamName": "JRunners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LSRC",
+        "teamName": "L Street Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LRC",
+        "teamName": "Latin Runners Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LARR",
+        "teamName": "Los Angeles Road Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ML",
+        "teamName": "Merrill Lynch",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MHUD",
+        "teamName": "Mid Hudson RRC",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYMR",
+        "teamName": "Midnight Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MHRC",
+        "teamName": "Mile High Run Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MONZ",
+        "teamName": "Monza Marathon Team a.s.d.",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NKU",
+        "teamName": "Nankai Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYPH",
+        "teamName": "New York Presbyterian Hospital",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NRC",
+        "teamName": "Northport Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYWR",
+        "teamName": "NY World Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYCFR",
+        "teamName": "NYC Fun Run",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ONRN",
+        "teamName": "On",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ORA",
+        "teamName": "Orange Runners Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PARC",
+        "teamName": "Pacers Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PRU",
+        "teamName": "Pinoy Runners USA",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PNP",
+        "teamName": "Pints & Pavements",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PBDS",
+        "teamName": "Powered By Dim Sum",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHF",
+        "teamName": "Robin Hood Foundation",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RNF",
+        "teamName": "Run N Fun",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RPB",
+        "teamName": "Run PB",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "R4F",
+        "teamName": "Run4Fun",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SRCO",
+        "teamName": "Sayville Running Company",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SERP",
+        "teamName": "Serpentine Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "S4A",
+        "teamName": "Shoe4Africa",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SHOR",
+        "teamName": "Shore Road Striders",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SR",
+        "teamName": "Snake Run",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SoRC",
+        "teamName": "Social Running Crew",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SOMA",
+        "teamName": "SOMA Fox Running Club",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "STRV",
+        "teamName": "Strava TC",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SWRR",
+        "teamName": "SWRR",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TMCF",
+        "teamName": "Team Boomer - Fighting Cystic Fibrosis",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TCON",
+        "teamName": "Team Continuum",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "IRC2",
+        "teamName": "Team Rescue",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TLF",
+        "teamName": "The Legion of Fitness",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "URFT",
+        "teamName": "Urban Feet",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ARMY",
+        "teamName": "US Army",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WHCH",
+        "teamName": "Whiskey Chasers",
+        "teamPlace": 25,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WR",
+        "teamName": "World Runners",
+        "teamPlace": 25,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "40W",
+    "divisionGender": "W",
+    "divisionName": "40+ Women Standings",
+    "divisionOrder": 11,
+    "teamResults": [
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 1,
+        "totalPoints": 132
+      },
+      {
+        "teamCode": "HHRT",
+        "teamName": "Henwood Hounds Racing Team",
+        "teamPlace": 2,
+        "totalPoints": 103
+      },
+      {
+        "teamCode": "NBR",
+        "teamName": "North Brooklyn Runners",
+        "teamPlace": 3,
+        "totalPoints": 102
+      },
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 4,
+        "totalPoints": 67
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 5,
+        "totalPoints": 66
+      },
+      {
+        "teamCode": "BRT",
+        "teamName": "Bergen Runners",
+        "teamPlace": 6,
+        "totalPoints": 53
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 7,
+        "totalPoints": 36
+      },
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 8,
+        "totalPoints": 30
+      },
+      {
+        "teamCode": "DWRT",
+        "teamName": "Dashing Whippets Running Team",
+        "teamPlace": 9,
+        "totalPoints": 29
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 10,
+        "totalPoints": 28
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 11,
+        "totalPoints": 22
+      },
+      {
+        "teamCode": "3RPL",
+        "teamName": "3RunPL",
+        "teamPlace": 12,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 13,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "RFA",
+        "teamName": "Running For Ayotzinapa 43",
+        "teamPlace": 13,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "UATH",
+        "teamName": "Urban Athletics",
+        "teamPlace": 13,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 14,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "LOV",
+        "teamName": "Love to Run Club",
+        "teamPlace": 14,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "POLS",
+        "teamName": "POLSKA Running Team",
+        "teamPlace": 14,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "BGR",
+        "teamName": "Black Girls Run",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "HRR",
+        "teamName": "Hellgate RR",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "JCR",
+        "teamName": "Jersey City Runners",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "MERM",
+        "teamName": "Mercury Masters",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "QDR",
+        "teamName": "Queens Distance Runners",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "R10",
+        "teamName": "RUN100871",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "STR",
+        "teamName": "Striders Track USA",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "TLSF",
+        "teamName": "Team Lean Strong Fast",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WRK",
+        "teamName": "TeamWRK",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 15,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "BE",
+        "teamName": "Bronx Endurance Runners",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "CAHC",
+        "teamName": "Club Atletico Hispano Correcaminos",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "DR",
+        "teamName": "Dominican Runners",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "DYK",
+        "teamName": "Dyckman Run Club",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "GALL",
+        "teamName": "GallowayNYC Running Club",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "HARL",
+        "teamName": "Harlem Run",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "PRNY",
+        "teamName": "Pinoy Runners New York",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "SBRC",
+        "teamName": "South Brooklyn Running Club",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "SSRC1",
+        "teamName": "Spartan Sundays Run Club",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "TO",
+        "teamName": "Team Osprey",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "TWNY",
+        "teamName": "Team WEPA NYC",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "TRD",
+        "teamName": "The Reservoir Dogs",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "WIT",
+        "teamName": "Witold's Runners",
+        "teamPlace": 16,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 17,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "CSA",
+        "teamName": "CSA Runs As 1",
+        "teamPlace": 17,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 17,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 17,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "NP",
+        "teamName": "November Project",
+        "teamPlace": 17,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "RRN",
+        "teamName": "Ridge Runners NYC",
+        "teamPlace": 17,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "ZTRN",
+        "teamName": "0Training",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "AFLAM",
+        "teamName": "ANY Flamingos",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "EMP",
+        "teamName": "Empire Tri Club",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NYH",
+        "teamName": "New York Harriers",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NYWR",
+        "teamName": "NY World Runners",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NYCD",
+        "teamName": "NYC Dragons",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "PRU",
+        "teamName": "Pinoy Runners USA",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RRR",
+        "teamName": "Rockland RR",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "SFH",
+        "teamName": "S.F.H Smiles From Heaven Athletic Club",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "SIAC",
+        "teamName": "Staten Island AC",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "TTCS",
+        "teamName": "Team TCS",
+        "teamPlace": 18,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "DKN",
+        "teamName": "Befuddled Danes",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BKRP",
+        "teamName": "BK Run Project",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "CLRC",
+        "teamName": "CREATIVE LIVING RUNNERS CLUB, LLC",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "DNYRC",
+        "teamName": "Define New York Run Club",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "JWS",
+        "teamName": "Jersey Women Strong",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "KRS",
+        "teamName": "K Runners",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "LE",
+        "teamName": "Landshark Endurance",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NMR",
+        "teamName": "North Merrick Runners",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "PRNJ",
+        "teamName": "Pinoy Runners of New Jersey",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "PNP",
+        "teamName": "Pints & Pavements",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "RFYL",
+        "teamName": "Run For Your Life",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "SPC",
+        "teamName": "Splits Run Crew",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "TA",
+        "teamName": "Team Aisling",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "LEUK",
+        "teamName": "Team In Training",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "WPF",
+        "teamName": "WilPower Fitness",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "W-S Runner",
+        "teamName": "Woodside-Sunnyside Runners",
+        "teamPlace": 19,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BAR",
+        "teamName": "Big Apple Runners",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "IRC",
+        "teamName": "Italian Running Club",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "JSRC",
+        "teamName": "Jersey Shore RC",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "LTM",
+        "teamName": "Latinas in Motion",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "LAC",
+        "teamName": "Latinas Run",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "LIC",
+        "teamName": "LIC Runners",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NHP",
+        "teamName": "New Hyde Park - Mineola Runners Club",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NJM",
+        "teamName": "North Jersey Masters",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "OO",
+        "teamName": "Orithyia Omada",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RCT",
+        "teamName": "Run for Chinatown",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "SLR",
+        "teamName": "StartLine Runners",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "VSRC",
+        "teamName": "Valley Stream RC",
+        "teamPlace": 20,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "BXS",
+        "teamName": "Bronx Sole",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "BTR",
+        "teamName": "Brooklyn Track Club",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "CHRC",
+        "teamName": "Crown Heights Running Club",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "DACS",
+        "teamName": "DetermiNation - American Cancer Society",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "EF",
+        "teamName": "elitefeats Athletic Club",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "HHTR",
+        "teamName": "Henry Hudson Trail Runners",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "HHH",
+        "teamName": "HHH Hudson Dusters",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "HOHA",
+        "teamName": "Hoboken Harriers",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "MST",
+        "teamName": "Mile Style",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NNRC",
+        "teamName": "Nike+ Run Club",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NRC",
+        "teamName": "Northport Running Club",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NYCR",
+        "teamName": "NYCRUNS- New York City Runs",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "PARA",
+        "teamName": "Paragon Sports Run Club",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RKTS",
+        "teamName": "Richmond Rockets",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "THSS",
+        "teamName": "Team HSS",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "JRC",
+        "teamName": "The JURC",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "URC",
+        "teamName": "Ukrainian Running Club NY",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "YRP",
+        "teamName": "Yonkers Running Project",
+        "teamPlace": 21,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "AODF",
+        "teamName": "Agony o'de Feet",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ATLA",
+        "teamName": "Atlanta TC",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BRSC",
+        "teamName": "Black Runners Connection",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CCMS",
+        "teamName": "City Coach Multisport",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CRRC",
+        "teamName": "Clifton Road Runners Club",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FF",
+        "teamName": "Fleet Feet",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FTER",
+        "teamName": "Full Throttle Endurance Racing",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JPM",
+        "teamName": "JP Morgan Chase",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "MHUD",
+        "teamName": "Mid Hudson RRC",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYRC",
+        "teamName": "New York Running Club",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NBRC",
+        "teamName": "NewBee Running Club",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NSSRG",
+        "teamName": "Not So Serious Running Group",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RAP",
+        "teamName": "Run Around Princeton",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RLIC",
+        "teamName": "RUN LIC",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RNYC",
+        "teamName": "Run NYC - Nike",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SRCRW",
+        "teamName": "She Runs Crew",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "S4A",
+        "teamName": "Shoe4Africa",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SOMA",
+        "teamName": "SOMA Fox Running Club",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "101",
+        "teamName": "Streets 101",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TRWB",
+        "teamName": "Team Red, White, & Blue",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HR",
+        "teamName": "The Hudson Runners",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TLTC",
+        "teamName": "TriLatino Triathlon Club",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "UFTC",
+        "teamName": "UNFRGVN",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "WBTC",
+        "teamName": "Williamsburg Track Club",
+        "teamPlace": 22,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FTG",
+        "teamName": "#FasterTogether",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYTR",
+        "teamName": "#nyctechrunners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ADEW",
+        "teamName": "AdiRun NYC",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "APS",
+        "teamName": "Alley Pond Striders",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AMAZ",
+        "teamName": "Amazing Feet",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ATM",
+        "teamName": "Asian Trail Mix",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AGTC",
+        "teamName": "Asphalt Green Triathlon Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BOMF",
+        "teamName": "Back on My Feet",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BARK",
+        "teamName": "Bad Ass Run Krew",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BLG",
+        "teamName": "Badass Lady Gang",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BSF",
+        "teamName": "Bed Stuy Flyers",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BBLP",
+        "teamName": "Bloomberg LLP",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BN",
+        "teamName": "Bronx Nomads",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BKTC",
+        "teamName": "Brooklyn Triathlon Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ALZH",
+        "teamName": "CaringKind",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CMS",
+        "teamName": "Central Mass Striders",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCNY",
+        "teamName": "City College of New York",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CF",
+        "teamName": "Cultura Fit",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CFRT",
+        "teamName": "Cystic Fibrosis Running Team",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DNH",
+        "teamName": "De Novo Harriers",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "EBA",
+        "teamName": "Ecua Brooklyn Athletic",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FDNY",
+        "teamName": "FDNY Running Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSTC",
+        "teamName": "Garden State Track Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSNY",
+        "teamName": "German Silva Coaching NY Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GlRC",
+        "teamName": "GlobalRunningCrew",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GCTR",
+        "teamName": "Gotham City Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GLRR",
+        "teamName": "Greater Lowell Road Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HHRG",
+        "teamName": "Hamilton Heights Running Group",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "HERS",
+        "teamName": "Hoboken Elysianettes Running Society",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ING",
+        "teamName": "ING",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LSRC",
+        "teamName": "L Street Running Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LLEG",
+        "teamName": "LA Leggers",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LATIN",
+        "teamName": "Latinos Run",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LARR",
+        "teamName": "Los Angeles Road Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JMFA",
+        "teamName": "McKirdy Trained",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MERR",
+        "teamName": "Merrimack Valley Striders",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NKU",
+        "teamName": "Nankai Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NJMM",
+        "teamName": "New Jersey Maniacs",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NJRR",
+        "teamName": "New Jersey Road Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYAC",
+        "teamName": "New York Athletic Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYPH",
+        "teamName": "New York Presbyterian Hospital",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "OMRC",
+        "teamName": "Old Man Run Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PARC",
+        "teamName": "Pacers Running Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "POS",
+        "teamName": "Pirates of Sunrise",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RTWN",
+        "teamName": "Rivertown Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHF",
+        "teamName": "Robin Hood Foundation",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHR",
+        "teamName": "Run Hustle Run",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RPB",
+        "teamName": "Run PB",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "R4F",
+        "teamName": "Run4Fun",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RES",
+        "teamName": "Runners Edge Striders",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHWB",
+        "teamName": "Runners High With Bala",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RRRC",
+        "teamName": "Runwithalli Running Club",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SFRR",
+        "teamName": "San Francisco Road Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SOME",
+        "teamName": "Somerville Road Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SCBR",
+        "teamName": "South Central Brooklyn Runners",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "STRV",
+        "teamName": "Strava TC",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TMCF",
+        "teamName": "Team Boomer - Fighting Cystic Fibrosis",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TCON",
+        "teamName": "Team Continuum",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TLR",
+        "teamName": "TriLife Racing",
+        "teamPlace": 23,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RWLI",
+        "teamName": "WeREndurance",
+        "teamPlace": 23,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "50M",
+    "divisionGender": "M",
+    "divisionName": "50+ Men Standings",
+    "divisionOrder": 13,
+    "teamResults": [
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 1,
+        "totalPoints": 124
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 2,
+        "totalPoints": 107
+      },
+      {
+        "teamCode": "NBR",
+        "teamName": "North Brooklyn Runners",
+        "teamPlace": 3,
+        "totalPoints": 90
+      },
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 4,
+        "totalPoints": 75
+      },
+      {
+        "teamCode": "BRT",
+        "teamName": "Bergen Runners",
+        "teamPlace": 5,
+        "totalPoints": 60
+      },
+      {
+        "teamCode": "DWRT",
+        "teamName": "Dashing Whippets Running Team",
+        "teamPlace": 6,
+        "totalPoints": 37
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 6,
+        "totalPoints": 37
+      },
+      {
+        "teamCode": "HHRT",
+        "teamName": "Henwood Hounds Racing Team",
+        "teamPlace": 7,
+        "totalPoints": 35
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 7,
+        "totalPoints": 35
+      },
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 8,
+        "totalPoints": 28
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 9,
+        "totalPoints": 18
+      },
+      {
+        "teamCode": "QDR",
+        "teamName": "Queens Distance Runners",
+        "teamPlace": 10,
+        "totalPoints": 17
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 11,
+        "totalPoints": 16
+      },
+      {
+        "teamCode": "LOV",
+        "teamName": "Love to Run Club",
+        "teamPlace": 12,
+        "totalPoints": 14
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 13,
+        "totalPoints": 13
+      },
+      {
+        "teamCode": "BRRC",
+        "teamName": "Brooklyn Road Runners Club",
+        "teamPlace": 14,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "R4W",
+        "teamName": "Running 4 Wish Inc",
+        "teamPlace": 15,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "NYH",
+        "teamName": "New York Harriers",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "NJM",
+        "teamName": "North Jersey Masters",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "RFA",
+        "teamName": "Running For Ayotzinapa 43",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WIT",
+        "teamName": "Witold's Runners",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "PRNJ",
+        "teamName": "Pinoy Runners of New Jersey",
+        "teamPlace": 18,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "POLS",
+        "teamName": "POLSKA Running Team",
+        "teamPlace": 18,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "BMRNYC",
+        "teamName": "Black Men Run",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "DR",
+        "teamName": "Dominican Runners",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NKU",
+        "teamName": "Nankai Runners",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "PRNY",
+        "teamName": "Pinoy Runners New York",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RRR",
+        "teamName": "Rockland RR",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RFYL",
+        "teamName": "Run For Your Life",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "AODF",
+        "teamName": "Agony o'de Feet",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "CLRC",
+        "teamName": "CREATIVE LIVING RUNNERS CLUB, LLC",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "GALL",
+        "teamName": "GallowayNYC Running Club",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "JCR",
+        "teamName": "Jersey City Runners",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "KRS",
+        "teamName": "K Runners",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NP",
+        "teamName": "November Project",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "STR",
+        "teamName": "Striders Track USA",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "TRD",
+        "teamName": "The Reservoir Dogs",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "UNRR",
+        "teamName": "UNRR (United Nations Road Runners)",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "ZTRN",
+        "teamName": "0Training",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "3RPL",
+        "teamName": "3RunPL",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "DNYRC",
+        "teamName": "Define New York Run Club",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "HRR",
+        "teamName": "Hellgate RR",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NJMM",
+        "teamName": "New Jersey Maniacs",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NYAC",
+        "teamName": "New York Athletic Club",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RRN",
+        "teamName": "Ridge Runners NYC",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "R10",
+        "teamName": "RUN100871",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "UNAC",
+        "teamName": "United Nations AC",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "APS",
+        "teamName": "Alley Pond Striders",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "CRRC",
+        "teamName": "Clifton Road Runners Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "HARL",
+        "teamName": "Harlem Run",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "HOHA",
+        "teamName": "Hoboken Harriers",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "IRC",
+        "teamName": "Italian Running Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NBRC",
+        "teamName": "NewBee Running Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "PARA",
+        "teamName": "Paragon Sports Run Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RA",
+        "teamName": "Road Acers",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "SBRC",
+        "teamName": "South Brooklyn Running Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TO",
+        "teamName": "Team Osprey",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TTCS",
+        "teamName": "Team TCS",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "AGTC",
+        "teamName": "Asphalt Green Triathlon Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ATLA",
+        "teamName": "Atlanta TC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "BOMF",
+        "teamName": "Back on My Feet",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "DACS",
+        "teamName": "DetermiNation - American Cancer Society",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "EMP",
+        "teamName": "Empire Tri Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FDNY",
+        "teamName": "FDNY Running Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HHH",
+        "teamName": "HHH Hudson Dusters",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NJRR",
+        "teamName": "New Jersey Road Runners",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYRC",
+        "teamName": "New York Running Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYCR",
+        "teamName": "NYCRUNS- New York City Runs",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "POS",
+        "teamName": "Pirates of Sunrise",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RARI",
+        "teamName": "Raritan Valley RR",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RAP",
+        "teamName": "Run Around Princeton",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RCT",
+        "teamName": "Run for Chinatown",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RHWB",
+        "teamName": "Runners High With Bala",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SAC",
+        "teamName": "Shore Athletic Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SIAC",
+        "teamName": "Staten Island AC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LEUK",
+        "teamName": "Team In Training",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TRWB",
+        "teamName": "Team Red, White, & Blue",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TWNY",
+        "teamName": "Team WEPA NYC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "WRK",
+        "teamName": "TeamWRK",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "URC",
+        "teamName": "Ukrainian Running Club NY",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "UATH",
+        "teamName": "Urban Athletics",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "WPF",
+        "teamName": "WilPower Fitness",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "W-S Runner",
+        "teamName": "Woodside-Sunnyside Runners",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYTR",
+        "teamName": "#nyctechrunners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "10TO",
+        "teamName": "10 To The End",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DKN",
+        "teamName": "Befuddled Danes",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BKRP",
+        "teamName": "BK Run Project",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BAA",
+        "teamName": "Boston Athletic Association",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BTR",
+        "teamName": "Brooklyn Track Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CJTC",
+        "teamName": "Central Jersey RR",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CMS",
+        "teamName": "Central Mass Striders",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CR",
+        "teamName": "Charlie's Angels",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCNY",
+        "teamName": "City College of New York",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CFRT",
+        "teamName": "Cystic Fibrosis Running Team",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FAT1",
+        "teamName": "Fil Am Tri",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FF",
+        "teamName": "Fleet Feet",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FRC",
+        "teamName": "Fox Running Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSC",
+        "teamName": "Garden State Cheetahs",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSTC",
+        "teamName": "Garden State Track Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GSNY",
+        "teamName": "German Silva Coaching NY Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GRNC",
+        "teamName": "Green City Runners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GT4",
+        "teamName": "GTRC",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "GRRC",
+        "teamName": "Gujarati RRC",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JSRC",
+        "teamName": "Jersey Shore RC",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JPM",
+        "teamName": "JP Morgan Chase",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LATIN",
+        "teamName": "Latinos Run",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LARR",
+        "teamName": "Los Angeles Road Runners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MAR",
+        "teamName": "MARLBORO RUNNING CLUB",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MONZ",
+        "teamName": "Monza Marathon Team a.s.d.",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NHP",
+        "teamName": "New Hyde Park - Mineola Runners Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NNRC",
+        "teamName": "Nike+ Run Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NRC",
+        "teamName": "Northport Running Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PARC",
+        "teamName": "Pacers Running Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PRU",
+        "teamName": "Pinoy Runners USA",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PBDS",
+        "teamName": "Powered By Dim Sum",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RKTS",
+        "teamName": "Richmond Rockets",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "R2R",
+        "teamName": "Rise2Run",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHF",
+        "teamName": "Robin Hood Foundation",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RNYC",
+        "teamName": "Run NYC - Nike",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SFH",
+        "teamName": "S.F.H Smiles From Heaven Athletic Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "S4A",
+        "teamName": "Shoe4Africa",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SHOR",
+        "teamName": "Shore Road Striders",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "STRV",
+        "teamName": "Strava TC",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TMCF",
+        "teamName": "Team Boomer - Fighting Cystic Fibrosis",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TLSF",
+        "teamName": "Team Lean Strong Fast",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TLTC",
+        "teamName": "TriLatino Triathlon Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WS",
+        "teamName": "Warren Street Social & Athletic Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "50W",
+    "divisionGender": "W",
+    "divisionName": "50+ Women Standings",
+    "divisionOrder": 14,
+    "teamResults": [
+      {
+        "teamCode": "BRT",
+        "teamName": "Bergen Runners",
+        "teamPlace": 1,
+        "totalPoints": 107
+      },
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 2,
+        "totalPoints": 99
+      },
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 3,
+        "totalPoints": 92
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 4,
+        "totalPoints": 79
+      },
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 5,
+        "totalPoints": 71
+      },
+      {
+        "teamCode": "DWRT",
+        "teamName": "Dashing Whippets Running Team",
+        "teamPlace": 6,
+        "totalPoints": 52
+      },
+      {
+        "teamCode": "UATH",
+        "teamName": "Urban Athletics",
+        "teamPlace": 7,
+        "totalPoints": 39
+      },
+      {
+        "teamCode": "LOV",
+        "teamName": "Love to Run Club",
+        "teamPlace": 8,
+        "totalPoints": 31
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 9,
+        "totalPoints": 22
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 10,
+        "totalPoints": 18
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 11,
+        "totalPoints": 16
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 11,
+        "totalPoints": 16
+      },
+      {
+        "teamCode": "3RPL",
+        "teamName": "3RunPL",
+        "teamPlace": 12,
+        "totalPoints": 15
+      },
+      {
+        "teamCode": "NBR",
+        "teamName": "North Brooklyn Runners",
+        "teamPlace": 13,
+        "totalPoints": 14
+      },
+      {
+        "teamCode": "HRR",
+        "teamName": "Hellgate RR",
+        "teamPlace": 14,
+        "totalPoints": 13
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 15,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "OO",
+        "teamName": "Orithyia Omada",
+        "teamPlace": 15,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "BGR",
+        "teamName": "Black Girls Run",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "HHRT",
+        "teamName": "Henwood Hounds Racing Team",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "MERM",
+        "teamName": "Mercury Masters",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "TLSF",
+        "teamName": "Team Lean Strong Fast",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 16,
+        "totalPoints": 9
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "R10",
+        "teamName": "RUN100871",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "RFA",
+        "teamName": "Running For Ayotzinapa 43",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 17,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "DR",
+        "teamName": "Dominican Runners",
+        "teamPlace": 18,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 18,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "GALL",
+        "teamName": "GallowayNYC Running Club",
+        "teamPlace": 18,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 18,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "WRK",
+        "teamName": "TeamWRK",
+        "teamPlace": 18,
+        "totalPoints": 7
+      },
+      {
+        "teamCode": "BE",
+        "teamName": "Bronx Endurance Runners",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "PRNY",
+        "teamName": "Pinoy Runners New York",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "POLS",
+        "teamName": "POLSKA Running Team",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "TO",
+        "teamName": "Team Osprey",
+        "teamPlace": 19,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "HARL",
+        "teamName": "Harlem Run",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "PRNJ",
+        "teamName": "Pinoy Runners of New Jersey",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "QDR",
+        "teamName": "Queens Distance Runners",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "RRN",
+        "teamName": "Ridge Runners NYC",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "SBRC",
+        "teamName": "South Brooklyn Running Club",
+        "teamPlace": 20,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "CLRC",
+        "teamName": "CREATIVE LIVING RUNNERS CLUB, LLC",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "IRC",
+        "teamName": "Italian Running Club",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "KRS",
+        "teamName": "K Runners",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "SSRC1",
+        "teamName": "Spartan Sundays Run Club",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TA",
+        "teamName": "Team Aisling",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "LEUK",
+        "teamName": "Team In Training",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "TTCS",
+        "teamName": "Team TCS",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "VSRC",
+        "teamName": "Valley Stream RC",
+        "teamPlace": 21,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "BAR",
+        "teamName": "Big Apple Runners",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "BKRP",
+        "teamName": "BK Run Project",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "JSRC",
+        "teamName": "Jersey Shore RC",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LTM",
+        "teamName": "Latinas in Motion",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "LAC",
+        "teamName": "Latinas Run",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "PRU",
+        "teamName": "Pinoy Runners USA",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "RRR",
+        "teamName": "Rockland RR",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "SLR",
+        "teamName": "StartLine Runners",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "W-S Runner",
+        "teamName": "Woodside-Sunnyside Runners",
+        "teamPlace": 22,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "AODF",
+        "teamName": "Agony o'de Feet",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "AFLAM",
+        "teamName": "ANY Flamingos",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ATLA",
+        "teamName": "Atlanta TC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CRRC",
+        "teamName": "Clifton Road Runners Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "CSA",
+        "teamName": "CSA Runs As 1",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "DNYRC",
+        "teamName": "Define New York Run Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "DACS",
+        "teamName": "DetermiNation - American Cancer Society",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "EMP",
+        "teamName": "Empire Tri Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HHH",
+        "teamName": "HHH Hudson Dusters",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HOHA",
+        "teamName": "Hoboken Harriers",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "JWS",
+        "teamName": "Jersey Women Strong",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NHP",
+        "teamName": "New Hyde Park - Mineola Runners Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYH",
+        "teamName": "New York Harriers",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NNRC",
+        "teamName": "Nike+ Run Club",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NJM",
+        "teamName": "North Jersey Masters",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NP",
+        "teamName": "November Project",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYWR",
+        "teamName": "NY World Runners",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RKTS",
+        "teamName": "Richmond Rockets",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RAP",
+        "teamName": "Run Around Princeton",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "SIAC",
+        "teamName": "Staten Island AC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TWNY",
+        "teamName": "Team WEPA NYC",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "HR",
+        "teamName": "The Hudson Runners",
+        "teamPlace": 23,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FTG",
+        "teamName": "#FasterTogether",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ZTRN",
+        "teamName": "0Training",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "AMAZ",
+        "teamName": "Amazing Feet",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BOMF",
+        "teamName": "Back on My Feet",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BRSC",
+        "teamName": "Black Runners Connection",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DNH",
+        "teamName": "De Novo Harriers",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FF",
+        "teamName": "Fleet Feet",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JCR",
+        "teamName": "Jersey City Runners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LLEG",
+        "teamName": "LA Leggers",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LE",
+        "teamName": "Landshark Endurance",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LARR",
+        "teamName": "Los Angeles Road Runners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "MERR",
+        "teamName": "Merrimack Valley Striders",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NJRR",
+        "teamName": "New Jersey Road Runners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NMR",
+        "teamName": "North Merrick Runners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NRC",
+        "teamName": "Northport Running Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYCR",
+        "teamName": "NYCRUNS- New York City Runs",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PNP",
+        "teamName": "Pints & Pavements",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHF",
+        "teamName": "Robin Hood Foundation",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RCT",
+        "teamName": "Run for Chinatown",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RFYL",
+        "teamName": "Run For Your Life",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RES",
+        "teamName": "Runners Edge Striders",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RHWB",
+        "teamName": "Runners High With Bala",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SFRR",
+        "teamName": "San Francisco Road Runners",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "S4A",
+        "teamName": "Shoe4Africa",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SOMA",
+        "teamName": "SOMA Fox Running Club",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "STR",
+        "teamName": "Striders Track USA",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TRWB",
+        "teamName": "Team Red, White, & Blue",
+        "teamPlace": 24,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "RWLI",
+        "teamName": "WeREndurance",
+        "teamPlace": 24,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "60M",
+    "divisionGender": "M",
+    "divisionName": "60+ Men Standings",
+    "divisionOrder": 16,
+    "teamResults": [
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 1,
+        "totalPoints": 124
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 2,
+        "totalPoints": 115
+      },
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 3,
+        "totalPoints": 82
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 4,
+        "totalPoints": 46
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 5,
+        "totalPoints": 44
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 6,
+        "totalPoints": 41
+      },
+      {
+        "teamCode": "BRRC",
+        "teamName": "Brooklyn Road Runners Club",
+        "teamPlace": 7,
+        "totalPoints": 37
+      },
+      {
+        "teamCode": "DWRT",
+        "teamName": "Dashing Whippets Running Team",
+        "teamPlace": 7,
+        "totalPoints": 37
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 8,
+        "totalPoints": 36
+      },
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 9,
+        "totalPoints": 31
+      },
+      {
+        "teamCode": "SAC",
+        "teamName": "Shore Athletic Club",
+        "teamPlace": 10,
+        "totalPoints": 22
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 10,
+        "totalPoints": 22
+      },
+      {
+        "teamCode": "LOV",
+        "teamName": "Love to Run Club",
+        "teamPlace": 11,
+        "totalPoints": 20
+      },
+      {
+        "teamCode": "WIT",
+        "teamName": "Witold's Runners",
+        "teamPlace": 11,
+        "totalPoints": 20
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 12,
+        "totalPoints": 18
+      },
+      {
+        "teamCode": "NJM",
+        "teamName": "North Jersey Masters",
+        "teamPlace": 13,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "QDR",
+        "teamName": "Queens Distance Runners",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "RRR",
+        "teamName": "Rockland RR",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "DR",
+        "teamName": "Dominican Runners",
+        "teamPlace": 15,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "BMRNYC",
+        "teamName": "Black Men Run",
+        "teamPlace": 16,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NP",
+        "teamName": "November Project",
+        "teamPlace": 16,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "RFYL",
+        "teamName": "Run For Your Life",
+        "teamPlace": 17,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "TRD",
+        "teamName": "The Reservoir Dogs",
+        "teamPlace": 17,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 17,
+        "totalPoints": 3
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "KRS",
+        "teamName": "K Runners",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYAC",
+        "teamName": "New York Athletic Club",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "PRNJ",
+        "teamName": "Pinoy Runners of New Jersey",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "RARI",
+        "teamName": "Raritan Valley RR",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "UNAC",
+        "teamName": "United Nations AC",
+        "teamPlace": 18,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYTR",
+        "teamName": "#nyctechrunners",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ZTRN",
+        "teamName": "0Training",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CJTC",
+        "teamName": "Central Jersey RR",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CCNY",
+        "teamName": "City College of New York",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CRRC",
+        "teamName": "Clifton Road Runners Club",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "DACS",
+        "teamName": "DetermiNation - American Cancer Society",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FDNY",
+        "teamName": "FDNY Running Club",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NHP",
+        "teamName": "New Hyde Park - Mineola Runners Club",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NJRR",
+        "teamName": "New Jersey Road Runners",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYH",
+        "teamName": "New York Harriers",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NYRC",
+        "teamName": "New York Running Club",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "NRC",
+        "teamName": "Northport Running Club",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "PRNY",
+        "teamName": "Pinoy Runners New York",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "POLS",
+        "teamName": "POLSKA Running Team",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "S4A",
+        "teamName": "Shoe4Africa",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SHOR",
+        "teamName": "Shore Road Striders",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "SIAC",
+        "teamName": "Staten Island AC",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LEUK",
+        "teamName": "Team In Training",
+        "teamPlace": 19,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "UNRR",
+        "teamName": "UNRR (United Nations Road Runners)",
+        "teamPlace": 19,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "60W",
+    "divisionGender": "W",
+    "divisionName": "60+ Women Standings",
+    "divisionOrder": 17,
+    "teamResults": [
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 1,
+        "totalPoints": 127
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 2,
+        "totalPoints": 107
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 3,
+        "totalPoints": 79
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 4,
+        "totalPoints": 66
+      },
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 5,
+        "totalPoints": 55
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 6,
+        "totalPoints": 44
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 7,
+        "totalPoints": 38
+      },
+      {
+        "teamCode": "MERM",
+        "teamName": "Mercury Masters",
+        "teamPlace": 8,
+        "totalPoints": 37
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 9,
+        "totalPoints": 28
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 10,
+        "totalPoints": 21
+      },
+      {
+        "teamCode": "HR",
+        "teamName": "The Hudson Runners",
+        "teamPlace": 11,
+        "totalPoints": 11
+      },
+      {
+        "teamCode": "MMR",
+        "teamName": "Misty Mountain Runners",
+        "teamPlace": 12,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "FRED",
+        "teamName": "Fred's Team",
+        "teamPlace": 13,
+        "totalPoints": 8
+      },
+      {
+        "teamCode": "GHTC",
+        "teamName": "Great Hill Track Club",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "TERR",
+        "teamName": "Terramia NYC",
+        "teamPlace": 14,
+        "totalPoints": 6
+      },
+      {
+        "teamCode": "SSRC1",
+        "teamName": "Spartan Sundays Run Club",
+        "teamPlace": 15,
+        "totalPoints": 5
+      },
+      {
+        "teamCode": "GALL",
+        "teamName": "GallowayNYC Running Club",
+        "teamPlace": 16,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "GLIR",
+        "teamName": "Greater Long Island Running Club",
+        "teamPlace": 16,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "LIRR",
+        "teamName": "Long Island RRC",
+        "teamPlace": 16,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "NROR",
+        "teamName": "NewRo Runners",
+        "teamPlace": 16,
+        "totalPoints": 4
+      },
+      {
+        "teamCode": "BDBR",
+        "teamName": "Boogie Down Bronx Runners",
+        "teamPlace": 17,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "FPRR",
+        "teamName": "Forest Park RR",
+        "teamPlace": 17,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "NYPD",
+        "teamName": "New York Police Dept.",
+        "teamPlace": 17,
+        "totalPoints": 2
+      },
+      {
+        "teamCode": "ATLA",
+        "teamName": "Atlanta TC",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "BGR",
+        "teamName": "Black Girls Run",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "CLRC",
+        "teamName": "CREATIVE LIVING RUNNERS CLUB, LLC",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "ESX",
+        "teamName": "Essex RC",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FF",
+        "teamName": "Fleet Feet",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "FRNY",
+        "teamName": "Front Runners NY",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "JSRC",
+        "teamName": "Jersey Shore RC",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "KRRC",
+        "teamName": "Korean Road Runners Club",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "LLEG",
+        "teamName": "LA Leggers",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "TO",
+        "teamName": "Team Osprey",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WRNRC",
+        "teamName": "We Are NYC Running Club",
+        "teamPlace": 18,
+        "totalPoints": 1
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 18,
+        "totalPoints": 1
+      }
+    ]
+  },
+  {
+    "divisionCode": "70M",
+    "divisionGender": "M",
+    "divisionName": "70+ Men Standings",
+    "divisionOrder": 19,
+    "teamResults": [
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 1,
+        "totalPoints": 127
+      },
+      {
+        "teamCode": "PPTC",
+        "teamName": "Prospect Park Track Club",
+        "teamPlace": 2,
+        "totalPoints": 86
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 3,
+        "totalPoints": 82
+      },
+      {
+        "teamCode": "TRR",
+        "teamName": "Taconic Road Runners Club",
+        "teamPlace": 4,
+        "totalPoints": 72
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 5,
+        "totalPoints": 45
+      },
+      {
+        "teamCode": "QSS",
+        "teamName": "Quicksilver Striders",
+        "teamPlace": 6,
+        "totalPoints": 27
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 7,
+        "totalPoints": 15
+      },
+      {
+        "teamCode": "WIT",
+        "teamName": "Witold's Runners",
+        "teamPlace": 8,
+        "totalPoints": 13
+      },
+      {
+        "teamCode": "WSX",
+        "teamName": "West Side Runners",
+        "teamPlace": 9,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 10,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "WTC",
+        "teamName": "Westchester TC",
+        "teamPlace": 10,
+        "totalPoints": 10
+      },
+      {
+        "teamCode": "CJTC",
+        "teamName": "Central Jersey RR",
+        "teamPlace": 11,
+        "totalPoints": 6
+      }
+    ]
+  },
+  {
+    "divisionCode": "70W",
+    "divisionGender": "W",
+    "divisionName": "70+ Women Standings",
+    "divisionOrder": 20,
+    "teamResults": [
+      {
+        "teamCode": "MERM",
+        "teamName": "Mercury Masters",
+        "teamPlace": 1,
+        "totalPoints": 102
+      },
+      {
+        "teamCode": "CPTC",
+        "teamName": "Central Park Track Club Tracksmith",
+        "teamPlace": 2,
+        "totalPoints": 90
+      },
+      {
+        "teamCode": "MILL",
+        "teamName": "Millrose",
+        "teamPlace": 3,
+        "totalPoints": 35
+      },
+      {
+        "teamCode": "NYF",
+        "teamName": "New York Flyers",
+        "teamPlace": 4,
+        "totalPoints": 26
+      },
+      {
+        "teamCode": "TFK",
+        "teamName": "Team For Kids",
+        "teamPlace": 5,
+        "totalPoints": 12
+      },
+      {
+        "teamCode": "VCTC",
+        "teamName": "Van Cortlandt TC",
+        "teamPlace": 6,
+        "totalPoints": 10
+      }
+    ]
+  }
+]
